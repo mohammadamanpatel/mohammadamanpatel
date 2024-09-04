@@ -16,8 +16,11 @@
 
 - <table>
   <tr>
-    <td style="vertical-align: top;">
-      <ul>
+    <td style="width: 300px; vertical-align: top; padding-right: 20px;">
+      <img align="left" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif" />
+    </td>
+    <td style="vertical-align: top; padding: 0 20px;">
+      <ul style="list-style-type: none; padding: 0;">
         <li>👨‍💻 <strong>Projects</strong>: Check out all of my projects on  
           <a href="https://github.com/mohammadamanpatel?tab=repositories">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -40,12 +43,11 @@
         </li>
       </ul>
     </td>
-    <td style="width: 300px; vertical-align: top;">
+    <td style="width: 300px; vertical-align: top; padding-left: 20px;">
       <img align="right" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
     </td>
   </tr>
 </table>
-
 ---
 
 <h3 align="left">Connect with Me:</h3>
