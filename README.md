@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+-<h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-aman-patel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
