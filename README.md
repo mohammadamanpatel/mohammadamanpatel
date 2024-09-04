@@ -14,7 +14,7 @@
 
 ---
 
-- - <div style="display: flex; align-items: center; justify-content: space-between;">
+- --<div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <p>- 👨‍💻 <strong>Projects</strong>: Check out all of my projects on  
       <a href="https://github.com/mohammadamanpatel?tab=repositories">
