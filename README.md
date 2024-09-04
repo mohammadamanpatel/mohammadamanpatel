@@ -42,8 +42,6 @@ Here's the completed version of your README:
     <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 
-- ⚡ **Fun Fact**: I think I am boring
-
 ---
 
 <h3 align="center">Connect with Me:</h3>
