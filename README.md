@@ -39,9 +39,8 @@
         <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
       </a>
     </p>
+    <img align="right" alt="Coding" width="120" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
   </div>
-
-  <img align="right" alt="Coding" width="120" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
 </div>
 
 ---
