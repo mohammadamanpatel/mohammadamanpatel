@@ -19,11 +19,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-- 💬 **Ask Me About**: Express.js, Node.js, MongoDB, React.js  
-  <a href="https://github.com/mohammadamanpatel?tab=repositories">
-    <img src="https://img.shields.io/badge/Ask%20Me-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ask Me About" />
-  </a>
-
 - 📫 **Reach Me At**:  
   <a href="mailto:ap5277478@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
