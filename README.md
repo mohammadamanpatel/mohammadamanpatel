@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <div align="center"> <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg"> </div>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
