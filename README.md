@@ -16,9 +16,6 @@
 
 - <table>
   <tr>
-    <td style="width: 300px; vertical-align: top;">
-      <img align="left" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif" />
-    </td>
     <td style="vertical-align: top;">
       <ul>
         <li>👨‍💻 <strong>Projects</strong>: Check out all of my projects on  
