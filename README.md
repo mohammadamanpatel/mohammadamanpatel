@@ -33,7 +33,6 @@
   <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
----
 
 ---
 
