@@ -1,5 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Aman</h1>
+<div align="center"> <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/linkedin%20banner.png"> </div>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
