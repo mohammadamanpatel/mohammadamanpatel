@@ -14,7 +14,7 @@
 
 ---
 
-👨‍💻 **Projects**: Check out all of my projects on  
+- 👨‍💻 **Projects**: Check out all of my projects on  
   <a href="https://github.com/mohammadamanpatel?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
