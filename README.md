@@ -14,7 +14,7 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td style="vertical-align: top; padding: 0 20px;">
       <ul style="list-style-type: none; padding: 0;">
@@ -48,8 +48,8 @@
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-aman-patel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -57,8 +57,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <!-- Basic Web Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
