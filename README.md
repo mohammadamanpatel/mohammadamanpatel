@@ -5,23 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadamanpatel" alt="mohammadamanpatel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/mohammadamanpatel?tab=repositories](https://github.com/mohammadamanpatel?tab=repositories)
 
-- 👋 All of my projects are available at [https://github.com/mohammadamanpatel?tab=repositories](https://github.com/mohammadamanpatel?tab=repositories)
+- 💬 Ask me about **Express.js,Node.js,Mongodb,React.js**
 
-- 💡 Ask me about **Express.js, Node.js, MongoDB, React.js**
-
-- 📧 How to reach me **ap5277478@gmail.com**
+- 📫 How to reach me **ap5277478@gmail.com**
 
 - 📄 Know about my skills and projects [https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk](https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk)
 
-- 🎨 Check out my portfolio [https://my-showcase.netlify.app](https://my-showcase.netlify.app)
-
-- ❤️ Fun fact **I think I am boring**
+- ⚡ Fun fact **I think I am boring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-aman-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-aman-patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-aman-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-aman-patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
