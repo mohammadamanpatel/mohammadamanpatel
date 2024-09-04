@@ -14,25 +14,41 @@
 
 ---
 
-- 👨‍💻 **Projects**: Check out all of my projects on  
-  <a href="https://github.com/mohammadamanpatel?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+- <table>
+  <tr>
+    <td style="width: 300px; vertical-align: top;">
+      <img align="left" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif" />
+    </td>
+    <td style="vertical-align: top;">
+      <ul>
+        <li>👨‍💻 <strong>Projects</strong>: Check out all of my projects on  
+          <a href="https://github.com/mohammadamanpatel?tab=repositories">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </li>
+        <li>📫 <strong>Reach Me At</strong>:  
+          <a href="mailto:ap5277478@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          </a>
+        </li>
+        <li>🎨 <strong>Portfolio</strong>:  
+          <a href="https://my-showcase.netlify.app">
+            <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+          </a>
+        </li>
+        <li>📄 <strong>Resume</strong>:  
+          <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
+            <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+          </a>
+        </li>
+      </ul>
+    </td>
+    <td style="width: 300px; vertical-align: top;">
+      <img align="right" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
+    </td>
+  </tr>
+</table>
 
-- 📫 **Reach Me At**:  
-  <a href="mailto:ap5277478@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-- 🎨 **Portfolio**:  
-  <a href="https://my-showcase.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-
-- 📄 **Resume**:  
-  <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
 ---
 
 <h3 align="left">Connect with Me:</h3>
