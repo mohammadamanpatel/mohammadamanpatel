@@ -41,7 +41,7 @@
     </p>
   </div>
 
-  <img align="right" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
+  <img align="right" alt="Coding" width="120" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
 </div>
 
 ---
