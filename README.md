@@ -14,7 +14,7 @@
 
 ---
 
-- <table>
+<table>
   <tr>
     <td style="vertical-align: top; padding: 0 20px;">
       <ul style="list-style-type: none; padding: 0;">
@@ -45,6 +45,8 @@
     </td>
   </tr>
 </table>
+---
+
 ---
 
 <h3 align="left">Connect with Me:</h3>
