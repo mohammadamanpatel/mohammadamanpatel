@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
-<div align="center">
-  <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" alt="Profile Image" width="200"/>
-</div>
+<div align="center"> <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" width="200"> </div>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
@@ -16,43 +14,42 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td style="vertical-align: top; padding: 0 10px; text-align: center;">
-      <ul style="list-style-type: none; padding: 0; margin: 0;">
-        <li>👨‍💻 <strong>Projects</strong>: 
-          <a href="https://github.com/mohammadamanpatel?tab=repositories">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </li>
-        <li>📫 <strong>Reach Me At</strong>:  
-          <a href="mailto:ap5277478@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-          </a>
-        </li>
-        <li>🎨 <strong>Portfolio</strong>:  
-          <a href="https://my-showcase.netlify.app">
-            <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-          </a>
-        </li>
-        <li>📄 <strong>Resume</strong>:  
-          <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
-            <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-          </a>
-        </li>
-      </ul>
-    </td>
-    <td style="width: 100%; vertical-align: top; padding: 10px; text-align: center;">
-      <img align="center" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: center;">
+    <li style="margin: 5px;">👨‍💻 <strong>Projects</strong>: 
+      <a href="https://github.com/mohammadamanpatel?tab=repositories">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </li>
+    <li style="margin: 5px;">📫 <strong>Reach Me At</strong>:  
+      <a href="mailto:ap5277478@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </li>
+    <li style="margin: 5px;">🎨 <strong>Portfolio</strong>:  
+      <a href="https://my-showcase.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+      </a>
+    </li>
+    <li style="margin: 5px;">📄 <strong>Resume</strong>:  
+      <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
+        <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+      </a>
+    </li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <img align="center" alt="Coding" width="100%" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
+</div>
 
 ---
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mohd-aman-patel" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-aman-patel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -126,10 +123,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamanpatel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadamanpatel&show_icons=true&locale=en" alt="
 
 GitHub Stats" />
@@ -138,3 +131,5 @@ GitHub Stats" />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadamanpatel&" alt="GitHub Streak" />
 </p>
+
+---
