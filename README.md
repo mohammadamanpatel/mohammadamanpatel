@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
-<div align="center"> <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" width="200"> </div>
+<div align="center">
+  <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" width="200">
+</div>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
@@ -14,29 +16,40 @@
 
 ---
 
-<div align="center">
-  <ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: center;">
-    <li style="margin: 5px;">👨‍💻 <strong>Projects</strong>: 
-      <a href="https://github.com/mohammadamanpatel?tab=repositories">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </li>
-    <li style="margin: 5px;">📫 <strong>Reach Me At</strong>:  
-      <a href="mailto:ap5277478@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </li>
-    <li style="margin: 5px;">🎨 <strong>Portfolio</strong>:  
-      <a href="https://my-showcase.netlify.app">
-        <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-      </a>
-    </li>
-    <li style="margin: 5px;">📄 <strong>Resume</strong>:  
-      <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
-        <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-      </a>
-    </li>
-  </ul>
+<!-- Responsive Table -->
+<div style="overflow-x: auto; width: 100%;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://github.com/mohammadamanpatel?tab=repositories">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <br>
+        <strong>Projects</strong>
+      </td>
+      <td style="padding: 10px;">
+        <a href="mailto:ap5277478@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        <br>
+        <strong>Reach Me At</strong>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://my-showcase.netlify.app">
+          <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+        </a>
+        <br>
+        <strong>Portfolio</strong>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
+          <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+        </a>
+        <br>
+        <strong>Resume</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -121,6 +134,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamanpatel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadamanpatel&show_icons=true&locale=en" alt="
