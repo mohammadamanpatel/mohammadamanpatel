@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
-<div align="center"> <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg"> </div>
+<div align="center">
+  <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" alt="Profile Image" width="200"/>
+</div>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
@@ -14,10 +16,10 @@
 
 ---
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td style="vertical-align: top; padding: 0 20px;">
-      <ul style="list-style-type: none; padding: 0;">
+    <td style="vertical-align: top; padding: 0 10px; text-align: center;">
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
         <li>👨‍💻 <strong>Projects</strong>: 
           <a href="https://github.com/mohammadamanpatel?tab=repositories">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -40,8 +42,8 @@
         </li>
       </ul>
     </td>
-    <td style="width: 300px; vertical-align: top; padding-left: 20px;">
-      <img align="right" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
+    <td style="width: 100%; vertical-align: top; padding: 10px; text-align: center;">
+      <img align="center" alt="Coding" width="300" src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/gif3.gif"/>
     </td>
   </tr>
 </table>
@@ -50,7 +52,7 @@
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-aman-patel" target="_blank">
+  <a href="https://linkedin.com/in/mohd-aman-patel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -121,7 +123,6 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
@@ -137,5 +138,3 @@ GitHub Stats" />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadamanpatel&" alt="GitHub Streak" />
 </p>
-
----
