@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <div align="center">
-  <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" width="200">
+  <img src="https://github.com/mohammadamanpatel/mohammadamanpatel/blob/main/Untitled%20(2).jpeg" width="600">
 </div>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
