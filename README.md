@@ -36,7 +36,7 @@
         <strong>Portfolio</strong>
       </td>
       <td style="padding: 10px;">
-        <a href="https://drive.google.com/file/d/1Jhm3j0_rZM6oMYkTCkqaFDCED8BuCutq/view?usp=drivesdk">
+        <a href="https://drive.google.com/file/d/1sT-bH7fJnwTCBXd1TwlcYbG6jUP3u5h1/view?usp=sharing">
           <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
         </a>
         <br>
